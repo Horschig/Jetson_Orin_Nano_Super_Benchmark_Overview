@@ -86,7 +86,7 @@
 
 Table for generation Generation "Hello World!" (duration)
 Engine | RTF | Speed (s) | Speed (tps) | RT tps req | tps / req | RAM used
----|---|---|---|---|---|
+---|---|---|---|---|---|---|
 Fish-Speech v1.5 | ? | ? | 4,8 | 24 | 0.2 | ?
 Orpheus TTS 3b | ? | ? | 19 | 83 | 0,23 | ?
 Oute-TTS 0.6B (vLLM) | 4.93 | 0.29 | 40 | 150 | 0.26 | 4.5 GB
